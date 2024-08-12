@@ -276,7 +276,7 @@ https://docs.docker.com/engine/reference/commandline/login/#credentials-store
 Login Succeeded
 ```
 
-### Sometime the below command doesnt work , it ask for to install docker engine
+### Sometime the below command ( Build your first Docker Image )doesnt  work , it ask for to install docker engine
 
 ```
 Follow this chatgpt link: to setup
