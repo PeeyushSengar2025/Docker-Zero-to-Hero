@@ -276,6 +276,14 @@ https://docs.docker.com/engine/reference/commandline/login/#credentials-store
 Login Succeeded
 ```
 
+### Sometime the below command doesnt work , it ask for to install docker engine
+
+```
+Follow this chatgpt link: to setup
+https://chatgpt.com/share/9cc73e34-58cd-4ae2-8584-2d3681e508c5
+```
+
+
 ### Build your first Docker Image
 
 You need to change the username accoringly in the below command
